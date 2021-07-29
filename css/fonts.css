@@ -1,0 +1,16 @@
+@font-face {
+	font-family: "CormorantInfant";
+	src: 
+		url("../fonts/CormorantInfant/CormorantInfant-Bold.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-BoldItalic.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-Italic.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-Light.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-LightItalic.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-Medium.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-MediumItalic.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-Regular.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-SemiBold.ttf") format("truetype"),
+		url("../fonts/CormorantInfant/CormorantInfant-SemiBoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
